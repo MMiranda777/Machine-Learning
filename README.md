@@ -22,7 +22,7 @@ A continuación se presenta un ejemplo de una de las mallas que se hicieron:
 
 <img src="Deep Neural Network (DNN)/Media/im2.png" width="50%" style="display: block; margin: auto;" />
 
-El código completo puede consultarse en el archivo [`H2O_DNN_MNIST.r`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/H2O_DNN_MNIST.R)
+El código completo puede consultarse en el archivo [`H2O_DNN_MNIST.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/H2O_DNN_MNIST.R)
 
 - Resultados:
 
