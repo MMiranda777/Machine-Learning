@@ -22,8 +22,10 @@ A continuación se presenta un ejemplo de una de las mallas que se hicieron:
 
 - Resultados:
 
+Hasta aquí solo se estaban evaluando modelos con las bases de
 A continuación se presenta una imagen que compara los mejores _8_ modelos obtenidos de un total de _15_ mallas aleatorias (_240_ modelos):
 
+- Logros:
 
 
 ## Regresión logística no regularizada 
