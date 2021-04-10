@@ -47,6 +47,4 @@ En la entrega de este proyecto participaron un total de _6_ equipos donde obtubi
 
 ## Regresión logística no regularizada 
 
-
-
-alt + 96
+> Coming soon...
