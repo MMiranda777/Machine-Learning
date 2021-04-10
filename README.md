@@ -8,7 +8,7 @@ En este repositorio comparto todos los trabajos que he desarrollado en el área 
 
 Este proyecto tiene como objetivo entrenar una **DNN** y una **regresión logística no regularizada**, para clasificar un subconjunto de observaciones de la base **MNIST** con un error de prueba lo más bajo posible.
 
-La base de datos **MNIST** es una base que contiene dígitos escritos a mano, cada dígito está contenido en una imagen de _28x28_ pixeles donde cada pixel representa un número en la escala de grises. La base original contiene _60,000_ imagenes de entrenamiento (_train_) y _10,000_ imágenes de prueba (*test*) sin embargo, para este trabajo solo se usó la parte de _train_ y se partió en tres subconjuntos `MNISTtrain.csv`, `MNISTtest.csv` y `MNISTvalidate.csv` con _40,000_, _9,000_ y _11,000_ registros respectivamente, donde el archivo `MNISTvalidate.csv` solo contiene a las variables predictoras (`x`'s) y no a la variable clase (`y`); esto para posteriormente poder evaluar el poder predictivo de la red neuronal. `(Estas bases se encuentran en el archivo **[Bases.zip](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Bases.zip)**)`
+La base de datos **MNIST** es una base que contiene dígitos escritos a mano, cada dígito está contenido en una imagen de _28x28_ pixeles donde cada pixel representa un número en la escala de grises. La base original contiene _60,000_ imagenes de entrenamiento (_train_) y _10,000_ imágenes de prueba (*test*) sin embargo, para este trabajo solo se usó la parte de _train_ y se partió en tres subconjuntos `MNISTtrain.csv`, `MNISTtest.csv` y `MNISTvalidate.csv` con _40,000_, _9,000_ y _11,000_ registros respectivamente, donde el archivo `MNISTvalidate.csv` solo contiene a las variables predictoras (`x`'s) y no a la variable clase (`y`); esto para posteriormente poder evaluar el poder predictivo de la red neuronal. `(Estas bases se encuentran en el archivo [Bases.zip](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Bases.zip))`
 
 > _**NOTA**_ : Todas las especificaciones relacionadas al código, a los criterios bajo los que se modificaron los parámetros y el cómo se decidió cuál era el mejor modelo vienen explicadas a detalle en el documento [`Resultados_MNIST_DNN.pdf`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Resultados_MNIST_DNN.pdf)
 
@@ -31,6 +31,7 @@ Hasta aquí solo se habián evaluando modelos con las bases de  `MNISTtrain.csv`
 Finalmente, nuestro criterio para escoger el modelo que haría las predicciones fue tomar los que tuvieran los logloss más bajos y que la diferencia entre el logloss de train contra el de test fuese mínima, bajo estos criterios, estas son las especificaciones del modelo final escogido para probar la base `MNISTvalidate.csv` :
 
 
+<img src="Deep Neural Network (DNN)/Media/im3.png" width="50%" style="display: block; margin: auto;" />
 
 - Logros:
 
