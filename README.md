@@ -39,7 +39,7 @@ Al probar esta red neuronal con datos _'nuevos'_ se obtuvieron los siguientes er
 |:-----:|:----:|:----:|-------|
 | 1.58  | 2.79 | 3.13 | 2.72  |
 
-Lo que se traduce a un error de clasificación del 2.72%
+Lo que se traduce a un error de clasificación del **2.72%**
 
 - Logros:
 
