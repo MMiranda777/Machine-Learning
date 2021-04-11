@@ -1,5 +1,5 @@
 # [PCA & Cluster Analysis](https://github.com/MMiranda777/Machine-Learning/tree/main/PCA%20%26%20Cluster%20Analysis)
-## *Unsupervised Learning*
+ _**Unsupervised Learning**_
 
 <img src="Media/clusteri.jpg" width="50%" style="display: block; margin: auto;" /><img src="Media/clusteri2.jpg" width="50%" style="display: block; margin: auto;" />
 
@@ -11,7 +11,7 @@ El objetivo de esta entrega es poner en práctica algoritmos de **aprendizaje no
 
 > _**NOTA**_ : Los ejercicios desarrollados se refieren a los ejercicios _8-11_ del capítulo _10 Unsupervized Learning, de James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). An Introduction to Statistical Learning. With applications in R, Springer, ISL_. Todas las especificaciones relacionadas al código y los resultados vienen explicados a detalle en el documento [`PCA&ClusterAnalysis.pdf`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/PCA%26ClusterAnalysis.pdf)
 
-- Programación:
+## - Programación:
 
 Para este trabajo se ocuparon las siguientes funciones de la paquetería _`stats`_:
 
@@ -24,7 +24,7 @@ Para este trabajo se ocuparon las siguientes funciones de la paquetería _`stats
 
 El código completo puede consultarse en el archivo [`PCA&ClusterAnalysis_code.Rmd`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/PCA%26ClusterAnalysis_code.Rmd) .
 
-- Resultados: 
+## - Resultados: 
     - `(Ej 9)` Se hicieron dos _H-Cluster_, uno con los datos 'crudos' y otro con los datos normalizados. Al trabajar de esta manera, concluimos que es mejor trabajar con los datos estandarizados porque las variables no siempre vienen en la misma escala y esto puede sesgar el modelo.
     - `(Ej 10)` Se realizaron varios _K-Cluster_ variando la _k_ (que originalmente era 3) y estandarizando los datos en un caso, donde pudimos comparar los modelos y sus resultados.
     - `(Ej 11)` Se observó que los modelos de _H-Cluster_ varían dependiendo del método de aglomeración que se use y que la mejor manera de obtener qué genes diferenciaban a las personas sanas de las enfermas era a através de un análisis de PCA.
