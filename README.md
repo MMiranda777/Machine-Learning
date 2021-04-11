@@ -1,7 +1,9 @@
 
 <a href="https://www.linkedin.com/in/melissamirandap/">
-<img src="https://img.shields.io/badge/Linkedin-in-0-0298c3">
+<img src="https://img.shields.io/badge/Linkedin-in-blue">
+  
 [![Linkedin: in](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://www.linkedin.com/in/melissamirandap/)
+  
 # Machine-Learning
 
 En este repositorio comparto todos los trabajos que he desarrollado en el área de Machine Learning. A continuación se presenta un breve resumen de cada uno de ellos.
