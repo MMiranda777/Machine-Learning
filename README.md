@@ -16,8 +16,8 @@ Este proyecto tiene como objetivo entrenar una **DNN** y una **regresión logís
 
 En la entrega de este proyecto participaron un total de _6_ equipos donde obtubimos el **primer lugar** en la búsqueda del mejor modelo de DNN con un error de clasificación global del **2.72%**.
 
-> _**:pushpin:**_ : Si te interesa el proyecto te invito a leer el abstract completo :smile: : [`Abstract DNN`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/README.md) (3 min de lectura)
-
+> _**:pushpin:**_ : Si te interesó el proyecto, te invito a leer el abstract completo :smile: : [`Abstract DNN`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/README.md) (3 min de lectura)
+----------------------------------------------------------------------------
 
 <img src="PCA & Cluster Analysis/Media/clusteri.jpg" width="50%" style="display: block; margin: auto;" /><img src="PCA & Cluster Analysis/Media/clusteri2.jpg" width="50%" style="display: block; margin: auto;" />
 
@@ -27,8 +27,9 @@ En la entrega de este proyecto participaron un total de _6_ equipos donde obtubi
 El objetivo de esta entrega es poner en práctica algoritmos de **aprendizaje no supervisado** en diversas bases de datos e identificar sus características y diferencias.
 Se ocupo la paquetería _`stats`_ en `RStudio` y sus funciones para hacer modelos de **PCA, Hierarchical Clustering, Cortar árboles** y **K-Means**.
 
-> _**:pushpin:**_ : Si te interesa el proyecto te invito a leer el abstract completo :smile: : [`Abstract PCA&CA`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20&%20Cluster%20Analysis/README.md) (2 min de lectura)
+> _**:pushpin:**_ : Si te interesó el proyecto, te invito a leer el abstract completo :smile: : [`Abstract PCA&CA`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20&%20Cluster%20Analysis/README.md) (2 min de lectura)
 
+----------------------------------------------------
 
 ## Coming soon... :soon:
 
