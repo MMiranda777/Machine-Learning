@@ -30,7 +30,18 @@ Se ocupo la paquetería _`stats`_ en `RStudio` y sus funciones para hacer modelo
 > _**:pushpin:**_ : Si te interesa el proyecto te invito a leer el abstract completo :smile: : [`Abstract PCA&CA`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20&%20Cluster%20Analysis/README.md) (2 min de lectura)
 
 
+## Coming soon... :soon:
 
+Modelos de:
+ - Regresión logística no regularizada
+ - Análisis de discriminante lineal
+ - Naive Bayes
+ - Regresión logística
+ - SVM
+ - LASSO
+ - Ridge
+ - Elastic Net
+ - Random Forest
 
 
 
