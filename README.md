@@ -1,6 +1,6 @@
 
-# <a href="https://www.linkedin.com/in/melissamirandap/">
-# <img src="https://img.shields.io/badge/Linked-in-blue">
+ <a href="https://www.linkedin.com/in/melissamirandap/">
+ <img src="https://img.shields.io/badge/Linked-in-blue">
   
 # Machine-Learning
 
