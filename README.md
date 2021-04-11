@@ -11,7 +11,14 @@ La base **USArrest** está incluida en las bases de datos de _`RStudio`_, esta b
 
 - Programación:
 
-Para este trabajo se ocuparon las siguientes funciones de la paquetería _`stats`_
+Para este trabajo se ocuparon las siguientes funciones de la paquetería _`stats`_:
+
+|   Función  |                                                                              Descripción                                                                             |
+|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| `prcomp()` |   Realiza **PCA** sobre los datos y es posible extraer la _proportion  of variance explained_ (PVE) de cada componente así como sus eigenvalores y eigenvectores.    |
+| `hclust()` | Realiza un análisis de **Hierarchical Clustering** sobre los datos  y es posible escoger el método de aglomeración  `(Complete linkage, Euclidian distance, etc...)` |
+| `cutree()` |                          Corta árboles de decisión (un _hclust_ por ejemplo) especificando el número de grupos (k) o la altura deseada (h).                          |
+| `kmeans()` |                                                  Realiza clusters por el método de **K-means** especificando la _k_                                                  |
 
 
 
