@@ -1,3 +1,35 @@
+<img src="PCA & Cluster Analysis/Media/cluster (2).jpg" width="30%" style="display: block; margin: auto;" />
+
+## [PCA & Cluster Analysis](https://github.com/MMiranda777/Machine-Learning/tree/main/PCA%20%26%20Cluster%20Analysis)
+### *Unsupervised Learning*
+
+El objetivo de esta entrega es poner en práctica algoritmos de **aprendizaje no supervisado** en la base **USArrest** e identificar sus diferencias.
+
+La base **USArrest** está incluida en las bases de datos de _`RStudio`_, esta base contiene estadísticas de los arrestos por cada 100,000 habitantes por los cargos de asalto, homicidio y violación en cada uno de los _50_ estados de EE.UU en 1973. También incluye el porcentaje de la población que vive en áreas urbanas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Machine-Learning
 
 En este repositorio comparto todos los trabajos que he desarrollado en el área de Machine Learning. A continuación se presenta un breve resumen de cada uno de ellos.
@@ -52,3 +84,32 @@ En la entrega de este proyecto participaron un total de _6_ equipos donde obtubi
 > Coming soon...
 
 --------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Gracias por leer c: 
