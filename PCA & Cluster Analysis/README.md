@@ -13,7 +13,7 @@ El objetivo de esta entrega es poner en práctica algoritmos de **aprendizaje no
 
 ## - Programación:
 
-Para este trabajo se ocuparon las siguientes funciones de la paquetería _`stats`_:
+Para este trabajo se ocuparon las siguientes funciones de la paquetería _`stats`_ en `RStudio`:
 
 |   Función  |                                                                              Descripción                                                                             |
 |:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
