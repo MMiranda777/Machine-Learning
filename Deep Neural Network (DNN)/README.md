@@ -28,7 +28,7 @@ Hasta aquí solo se habián evaluando modelos con las bases de  `MNISTtrain.csv`
 
 Finalmente, nuestro criterio para escoger el modelo que haría las predicciones fue tomar los que tuvieran los logloss más bajos y que la diferencia entre el logloss de train contra el de test fuese mínima, bajo estos criterios, estas son las especificaciones del modelo final escogido para probar la base `MNISTvalidate.csv`:
 
-<img src="DMedia/im3.png" width="50%" style="display: block; margin: auto;" />
+<img src="Media/im3.png" width="50%" style="display: block; margin: auto;" />
 
 Al probar esta red neuronal con datos _'nuevos'_ se obtuvieron los siguientes errores:
 
