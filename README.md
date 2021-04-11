@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo entrenar una **DNN** y una **regresión logís
 
 En la entrega de este proyecto participaron un total de _6_ equipos donde obtubimos el **primer lugar** en la búsqueda del mejor modelo de DNN con un error de clasificación global del **2.72%**.
 
-> _**NOTA**_ : Todas las especificaciones relacionadas al código, a los criterios bajo los que se modificaron los parámetros y el cómo se decidió cuál era el mejor modelo vienen explicadas a detalle en el documento [`Resultados_MNIST_DNN.pdf`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Resultados_MNIST_DNN.pdf)
+> _**:pushpin:**_ : Si te interesa te invito a leer el abstract completo  [`Abstract DNN`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/README.md)
 
 
 <img src="PCA & Cluster Analysis/Media/clusteri.jpg" width="50%" style="display: block; margin: auto;" /><img src="PCA & Cluster Analysis/Media/clusteri2.jpg" width="50%" style="display: block; margin: auto;" />
