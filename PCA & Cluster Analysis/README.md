@@ -9,7 +9,7 @@ El objetivo de esta entrega es poner en práctica algoritmos de **aprendizaje no
   2. `(Ej 10)` Muestra normal aleatoria de _60_ observaciones clasificadas en _3_ grupos (_20_ obs. c/u).
   3. `(Ej 11)` La base [**Ch10Ex11.csv**](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/Ch10Ex11.csv) consiste en una muestra de _40_ pañuelos con muestras de _1,000_ genes. Los primeros _20_ pañuelos son de personas saludables mientras que los últimos _20_ son de personas enfermas.
 
-> _**NOTA**_ : Los ejercicios desarrollados se refieren a los ejercicios _8-11_ del capítulo _10 Unsupervized Learning, de James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). An Introduction to Statistical Learning. With applications in R, Springer, ISL_. Todas las especificaciones relacionadas al código y los resultados vienen explicados a detalle en el documento [`PCA&ClusterAnalysis.pdf`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/PCA%26ClusterAnalysis.pdf)
+> _**NOTA**_ : Los ejercicios desarrollados se refieren a los ejercicios _8-11_ del capítulo _10 Unsupervized Learning, de James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). [An Introduction to Statistical Learning. With applications in R, Springer, ISL](https://drive.google.com/file/d/1k2mRdwQAiucawr5hPru5IF9M2Nt1rtIz/view?usp=sharing)_. Todas las especificaciones relacionadas al código y los resultados vienen explicados a detalle en el documento [`PCA&ClusterAnalysis.pdf`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/PCA%26ClusterAnalysis.pdf)
 
 ## - Programación:
 
