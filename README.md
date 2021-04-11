@@ -24,7 +24,7 @@ Para este trabajo se ocuparon las siguientes funciones de la paquetería _`stats
 
 El código completo puede consultarse en el archivo [`PCA&ClusterAnalysis_code.Rmd`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/PCA%26ClusterAnalysis_code.Rmd) .
 
-
+- Resultados: 
 
 
 
