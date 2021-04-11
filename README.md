@@ -44,7 +44,7 @@ El código completo puede consultarse en el archivo [`PCA&ClusterAnalysis_code.R
 
 En este repositorio comparto todos los trabajos que he desarrollado en el área de Machine Learning. A continuación se presenta un breve resumen de cada uno de ellos.
 
-<img src="Deep Neural Network (DNN)/Media/dnn.jpg" width="50%" style="display: block; margin: auto;" /><img src="Deep Neural Network (DNN)/Media/dnn.jpg" width="50%" style="display: block; margin: auto;" />
+<img src="Deep Neural Network (DNN)/Media/dnn.jpg" width="50%" style="display: block; margin: auto;" /><img src="Deep Neural Network (DNN)/Media/dnn (2).jpg" width="50%" style="display: block; margin: auto;" />
 
 ## [Deep Neural Network (DNN)](https://github.com/MMiranda777/Machine-Learning/tree/main/Deep%20Neural%20Network%20(DNN))
 
@@ -85,7 +85,7 @@ Al probar esta red neuronal con datos _'nuevos'_ se obtuvieron los siguientes er
 
 Lo que se traduce a un error de clasificación del **2.72%**
 
-- Logros:
+- Logros: :trophy:
 
 En la entrega de este proyecto participaron un total de _6_ equipos donde obtubimos el **primer lugar** en la búsqueda del mejor modelo de DNN, seguido por un modelo con un error de clasificación del 2.97%
 
