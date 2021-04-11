@@ -1,6 +1,6 @@
-<img src="Media/dnn.jpg" width="50%" style="display: block; margin: auto;" /><img src="Media/dnn (2).jpg" width="50%" style="display: block; margin: auto;" />
+# [Deep Neural Network (DNN)](https://github.com/MMiranda777/Machine-Learning/tree/main/Deep%20Neural%20Network%20(DNN))
 
-## [Deep Neural Network (DNN)](https://github.com/MMiranda777/Machine-Learning/tree/main/Deep%20Neural%20Network%20(DNN))
+<img src="Media/dnn.jpg" width="50%" style="display: block; margin: auto;" /><img src="Media/dnn (2).jpg" width="50%" style="display: block; margin: auto;" />
 
 Este proyecto tiene como objetivo entrenar una **DNN** y una **regresión logística no regularizada**, para clasificar un subconjunto de observaciones de la base **MNIST** con un error de prueba lo más bajo posible.
 
