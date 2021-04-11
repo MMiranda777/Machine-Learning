@@ -16,7 +16,7 @@ Para la parte de la programación, se ocupó la paqueteria _`h2o`_ en _`RStudio`
 
 A continuación se presenta un ejemplo de una de las mallas que se hicieron:
 
-<img src="Media/im2.png" width="50%" style="display: block; margin: auto;" />
+<img src="Media/im2.png" width="60%" style="display: block; margin: auto;" />
 
 El código completo puede consultarse en el archivo [`H2O_DNN_MNIST.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/H2O_DNN_MNIST.R)
 
@@ -24,7 +24,7 @@ El código completo puede consultarse en el archivo [`H2O_DNN_MNIST.R`](https://
 
 Hasta aquí solo se habián evaluando modelos con las bases de  `MNISTtrain.csv` y `MNISTtest.csv`, pero se necesitaba decidir el modelo final para probar la base  `MNISTvalidate.csv`. A continuación se presenta una imagen que compara los mejores _8_ modelos obtenidos de un total de _15_ mallas aleatorias (_240_ modelos):
 
-<img src="Media/im1.png" width="50%" style="display: block; margin: auto;" />
+<img src="Media/im1.png" width="70%" style="display: block; margin: auto;" />
 
 Finalmente, nuestro criterio para escoger el modelo que haría las predicciones fue tomar los que tuvieran los logloss más bajos y que la diferencia entre el logloss de train contra el de test fuese mínima, bajo estos criterios, estas son las especificaciones del modelo final escogido para probar la base `MNISTvalidate.csv`:
 
