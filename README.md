@@ -1,4 +1,4 @@
-<img src="PCA & Cluster Analysis/Media/cluster (2).jpg" width="30%" style="display: block; margin: auto;" />
+<img src="PCA & Cluster Analysis/Media/clusteri.jpg" width="30%" style="display: block; margin: auto;" /><img src="PCA & Cluster Analysis/Media/clusteri.jpg" width="30%" style="display: block; margin: auto;" />
 
 ## [PCA & Cluster Analysis](https://github.com/MMiranda777/Machine-Learning/tree/main/PCA%20%26%20Cluster%20Analysis)
 ### *Unsupervised Learning*
@@ -7,7 +7,7 @@ El objetivo de esta entrega es poner en práctica algoritmos de **aprendizaje no
 
 La base **USArrest** está incluida en las bases de datos de _`RStudio`_, esta base contiene estadísticas de los arrestos por cada 100,000 habitantes por los cargos de asalto, homicidio y violación en cada uno de los _50_ estados de EE.UU en 1973. También incluye el porcentaje de la población que vive en áreas urbanas.
 
-
+> _**NOTA**_ : Los ejercicios desarrollados se refieren a los ejercicios _8-11_ del capítulo 10 _Unsupervized Learning, de James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). An Introduction to Statistical Learning. With applications in R, Springer, ISL_. Todas las especificaciones relacionadas al código vienen explicadas a detalle en el documento [`PCA&ClusterAnalysis.pdf`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/PCA%26ClusterAnalysis.pdf) y la fuente del código en el documento [`PCA&ClusterAnalysis_code.Rmd`](https://github.com/MMiranda777/Machine-Learning/blob/main/PCA%20%26%20Cluster%20Analysis/PCA%26ClusterAnalysis_code.Rmd) .
 
 
 
