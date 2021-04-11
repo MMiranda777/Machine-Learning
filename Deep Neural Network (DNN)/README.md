@@ -8,7 +8,7 @@ La base de datos **MNIST** es una base que contiene dígitos escritos a mano, ca
 
 > _**NOTA**_ : Todas las especificaciones relacionadas al código, a los criterios bajo los que se modificaron los parámetros y el cómo se decidió cuál era el mejor modelo vienen explicadas a detalle en el documento [`Resultados_MNIST_DNN.pdf`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Resultados_MNIST_DNN.pdf)
 
-- Programación:
+## - Programación:
 
 Para la parte de la programación, se ocupó la paqueteria _`h2o`_ en _`RStudio`_ para generar mallas aleaterias de DNN que tuvieran entre _10_ y _20_ modelos cada una y así poder comparar los modelos y probar ajustando parámetros, como el número de épocas, nodos o la _n_ para _cross validation_, en la siguiente malla para tratar de bajar el error.
 
@@ -20,7 +20,7 @@ A continuación se presenta un ejemplo de una de las mallas que se hicieron:
 
 El código completo puede consultarse en el archivo [`H2O_DNN_MNIST.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/H2O_DNN_MNIST.R)
 
-- Resultados:
+## - Resultados:
 
 Hasta aquí solo se habián evaluando modelos con las bases de  `MNISTtrain.csv` y `MNISTtest.csv`, pero se necesitaba decidir el modelo final para probar la base  `MNISTvalidate.csv`. A continuación se presenta una imagen que compara los mejores _8_ modelos obtenidos de un total de _15_ mallas aleatorias (_240_ modelos):
 
@@ -39,11 +39,11 @@ Al probar esta red neuronal con datos _'nuevos'_ se obtuvieron los siguientes er
 
 Lo que se traduce a un error de clasificación del **2.72%**
 
-- :trophy: :trophy: Logros: 
+## - :trophy: :trophy: Logros: 
 
 En la entrega de este proyecto participaron un total de _6_ equipos donde obtubimos el **primer lugar** en la búsqueda del mejor modelo de DNN, seguido por un modelo con un error de clasificación del 2.97%
 
-## Regresión logística no regularizada 
+# Regresión logística no regularizada 
 
 > Coming soon...
 > ----
