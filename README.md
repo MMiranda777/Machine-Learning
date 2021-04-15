@@ -31,6 +31,9 @@ Se ocupo la paquetería _`stats`_ en `RStudio` y sus funciones para hacer modelo
 
 ----------------------------------------------------
 
+<img src="LASSO, Ridge, Elastic Net y Random Forest/Media/rf1.png" width="50%" style="display: block; margin: auto;" /><img src="LASSO, Ridge, Elastic Net y Random Forest/Media/rf2.png" width="50%" style="display: block; margin: auto;" />
+-----------------------------------------------------
+
 ## Coming soon... :soon:
 
 Modelos de:
