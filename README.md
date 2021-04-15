@@ -35,6 +35,10 @@ Se ocupo la paquetería _`stats`_ en `RStudio` y sus funciones para hacer modelo
 
 ## [LASSO, Ridge, Elastic Net y Random Forest](https://github.com/MMiranda777/Machine-Learning/tree/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest)
 ### _**Model Selection and Regularization**_
+
+El objetivo de esta entrega es ajustar modelos regularizados como **LASSO, Ridge, Elastic Net** y un modelo de **Random Forest**, posteriormente calcular sus _tasas de error **Aparente** y **No Aparente**_ por medio de _cross-validation_ y finalmente analizar y comparar las características de los mejores modelos.
+
+> _**:pushpin:**_ : Si te interesó el proyecto, te invito a leer el abstract completo :smile: : [`Abstract ModelosReg & RF`](https://github.com/MMiranda777/Machine-Learning/blob/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest/README.md) (3 min de lectura)
 -----------------------------------------------------
 
 ## Coming soon... :soon:
