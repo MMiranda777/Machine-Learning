@@ -22,10 +22,17 @@ Para este trabajo se ocupó la siguientes funciones de las paqueterías  _`glmne
 > *Nota*: Para los modelos de LASSO y Ridge el valor de α es 1 y 0 respectivamente, mientras que para Elasticnet 0≤α≤1.
 
 El código completo puede consultarse en el archivo [`MR & RF.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest/MR%20%26%20RF.R)
+
 ## - Resultados:
 
+#### LASSO, Ridge, Elastic Net
+Recordemos que para un modelo elegido con ridge este mantendrá la cantidad de variables originales y sólo se buscará encontrar el valor de lambda que minimice el error cuadrático medio (**ECM/MSE**). Para lasso los modelos s´ı ir´an viendo una
+reducci´on en variables y se buscar´a la lambda que minimice el ECM como en el caso de ridge. Para elastic net se
+tendr´a una idea an´aloga a lasso.
 
-
+El metodo usado fue trainig/test para la obtención de las tasas no aparentes con 500 repeticiones.
+Nuestros errores resultantes fueron.
+## Tr error (Ap) Tr/test 500 (NoAp)
 
 
 
