@@ -31,7 +31,7 @@ Recordemos que para un modelo elegido con Ridge este mantendrá la cantidad de v
 
 > Recordemos que _training error rate_ se refiere al error de entrenamiento (**tasa de error aparente**) y que _test error rate_ se refiere al error de predicción validado (**tasa de error no aparente**) (Repeated training/test o utilizando cross-validation con más de una repetición).
 
-<img src="Media/im1.png" width="70%" style="display: block; margin: auto;" />
+<img src="Media/im1.png" width="85%" style="display: block; margin: auto;" />
 
 > **β**: Se refiere al número de variables que toma el modelo.
 
