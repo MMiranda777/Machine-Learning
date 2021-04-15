@@ -24,8 +24,8 @@ Para este trabajo se ocupó la siguientes funciones de las paqueterías  _`glmne
 El código completo puede consultarse en el archivo [`MR & RF.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest/MR%20%26%20RF.R)
 
 ## - Resultados:
+#### LASSO, Ridge, Elastic Net:
 
-#### LASSO, Ridge, Elastic Net
 Recordemos que para un modelo elegido con ridge este mantendrá la cantidad de variables originales y sólo se buscará encontrar el valor de lambda que minimice el error cuadrático medio (**ECM/MSE**). Para lasso los modelos s´ı ir´an viendo una
 reducci´on en variables y se buscar´a la lambda que minimice el ECM como en el caso de ridge. Para elastic net se
 tendr´a una idea an´aloga a lasso.
