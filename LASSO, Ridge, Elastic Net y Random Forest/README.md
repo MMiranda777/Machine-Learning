@@ -15,7 +15,9 @@ Para este trabajo se ocupó la siguiente función del la paquetería  _`glmnet`_
 
 |   Función  |                                                                              Descripción                                                                             |
 |:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| `glmnet()` |   Ajusta un modelo lineal generalizado mediante la penalización de máxima verosimilitud, la vía de regularización se calcula de acuerdo a la penalización del del modelo (α)  en una malla de valores de regularización para _lambda_  |
+| `glmnet()` |   Ajusta un modelo lineal generalizado mediante la penalización de máxima verosimilitud, la vía de regularización se calcula de acuerdo a la penalización del del modelo (α)  en una malla de valores de regularización para _lambda_.  |
+
+> *Nota*: Para los modelos de LASSO y Ridge el valor de α es 1 y 0 respectivamente, mientras que para Elasticnet 0≤α≤1.
 
 El código completo puede consultarse en el archivo [`MR & RF.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest/MR%20%26%20RF.R)
 ## - Resultados:
