@@ -25,14 +25,18 @@ El código completo puede consultarse en el archivo [`MR & RF.R`](https://github
 
 ## - Resultados:
 ### LASSO, Ridge y Elastic Net:
-
+**Riboflabin**
 Recordemos que para un modelo elegido con Ridge este mantendrá la cantidad de variables originales y sólo se buscará encontrar el valor de lambda que minimice el error cuadrático medio (**ECM/MSE**). Para LASSO los modelos sí irán viendo una reducción en variables y se buscará la lambda que minimice el ECM como en el caso de Ridge. Para Elastic Net se tendrá una idea análoga a LASSO.
 
-> *NOTA*: Recordemos que _training error rate_ se refiere al error de entrenamiento (**tasa de error aparente**) y que _test error rate_ se refiere al error de predicción validado (**tasa de error no aparente**) (Repeated training/test o utilizando cross-validation con más de una repetición).
+> Recordemos que _training error rate_ se refiere al error de entrenamiento (**tasa de error aparente**) y que _test error rate_ se refiere al error de predicción validado (**tasa de error no aparente**) (Repeated training/test o utilizando cross-validation con más de una repetición).
 
-El metodo usado fue trainig/test para la obtención de las tasas no aparentes con 500 repeticiones.
-Nuestros errores resultantes fueron.
-## Tr error (Ap) Tr/test 500 (NoAp)
+im1
+
+> **β**: Se refiere al número de variables que toma el modelo.
+El criterio para escoger todos los modelos fue tomar `lambda.min`. Para Ridge se utilizó porque era la que minimizaba el ECM, para LASSO y Elastic Net se utilizó porque minimizaba el ECM y porque tomaba en cuenta más variables (**β**) que si se utilizaba `lambda.1se`. Buscamos que los últimos dos modelos tomaran en cuenta más variables ya que la base original cuenta con miles de ellas y a nivel de decenas no cambia mucho el costo computacional.
+
+
+
 
 
 
