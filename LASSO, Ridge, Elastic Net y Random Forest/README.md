@@ -31,7 +31,7 @@ Recordemos que para un modelo elegido con Ridge este mantendrá la cantidad de v
 
 > Recordemos que _training error rate_ se refiere al error de entrenamiento (**tasa de error aparente**) y que _test error rate_ se refiere al error de predicción validado (**tasa de error no aparente**) (Repeated training/test o utilizando cross-validation con más de una repetición).
 
-im1
+<img src="Media/im1.png" width="70%" style="display: block; margin: auto;" />
 
 > **β**: Se refiere al número de variables que toma el modelo.
 
@@ -40,13 +40,19 @@ El criterio para escoger todos los modelos fue tomar `lambda.min`. Para Ridge se
 ### Random Forest:
 **Boston**
 
-Para `randomForest` se usaron *13* modelos donde cada uno difiere por el valor de `mtry`.
+Para `randomForest` se usaron *13* modelos donde cada uno difiere por el valor de `mtry`. De esos *13* modelos se obtuvo la siguiente gráfica: 
+
+<img src="Media/im2.png" width="70%" style="display: block; margin: auto;" />
+
 > `mtry`: Se refiere al número de variables muestreadas aleatoriamente como candidatas en cada división. Los valores predeterminados son diferentes para el método de clasificación (*sqrt(p)* donde *p* es el número de variables en *x*) y regresión (*p/3*).
 
+Se comprararon los _MSE aparentes_ de cada uno de los modelos con los _MSE OOB_ (observados) . Se escogió el modelo que corresponde al valor de *`mtry`=7* con las siguientes especificaciones: 
 
+|     Modelo    | Tr error (AP) | Tr/Test error (NoAP) | `mtry` | `ntree` |
+|:-------------:|:-------------:|:--------------------:|:------:|:-------:|
+| RandomForest7 |     0.0391    |        0.2355        |    7   |   500   |
 
-
-
+> `ntree`: Número de árboles que crecen.
 
 
 
