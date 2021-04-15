@@ -19,16 +19,16 @@ Para este trabajo se ocupó la siguientes funciones de las paqueterías  _`glmne
 |:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | `cv.glmnet()` |   Ajusta un modelo lineal generalizado mediante la penalización de máxima verosimilitud, la vía de regularización se calcula de acuerdo a la penalización del del modelo (α)  en una malla de valores de regularización para _lambda_. Y `cv` se refiere a que hace el _k-folds cross-validation_ para el modelo.   |
 | `randomForest()` |   Implementa el algoritmo de Random Forest de Breiman (basado en el código original de Fortran de Breiman y Cutler) para clasificación y regresión. También se puede utilizar en modo no supervisado para evaluar proximidades entre puntos de datos.    |
-> *Nota*: Para los modelos de LASSO y Ridge el valor de α es 1 y 0 respectivamente, mientras que para Elasticnet 0≤α≤1.
+> *Nota*: Para los modelos de LASSO y Ridge el valor de α es 1 y 0 respectivamente, mientras que para Elastic Net 0≤α≤1.
 
 El código completo puede consultarse en el archivo [`MR & RF.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest/MR%20%26%20RF.R)
 
 ## - Resultados:
-#### LASSO, Ridge, Elastic Net:
+### LASSO, Ridge y Elastic Net:
 
-Recordemos que para un modelo elegido con ridge este mantendrá la cantidad de variables originales y sólo se buscará encontrar el valor de lambda que minimice el error cuadrático medio (**ECM/MSE**). Para lasso los modelos s´ı ir´an viendo una
-reducci´on en variables y se buscar´a la lambda que minimice el ECM como en el caso de ridge. Para elastic net se
-tendr´a una idea an´aloga a lasso.
+Recordemos que para un modelo elegido con Ridge este mantendrá la cantidad de variables originales y sólo se buscará encontrar el valor de lambda que minimice el error cuadrático medio (**ECM/MSE**). Para LASSO los modelos sí irán viendo una reducción en variables y se buscará la lambda que minimice el ECM como en el caso de Ridge. Para Elastic Net se tendrá una idea análoga a LASSO.
+
+> *NOTA*: Recordemos que _training error rate_ se refiere al error de entrenamiento (**tasa de error aparente**) y que _test error rate_ se refiere al error de predicción validado (**tasa de error no aparente**) (Repeated training/test o utilizando cross-validation con más de una repetición).
 
 El metodo usado fue trainig/test para la obtención de las tasas no aparentes con 500 repeticiones.
 Nuestros errores resultantes fueron.
