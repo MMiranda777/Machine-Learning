@@ -15,7 +15,7 @@ Para este trabajo se ocupó la siguiente función del la paquetería  _`glmnet`_
 
 |   Función  |                                                                              Descripción                                                                             |
 |:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| `prcomp()` |   Realiza **PCA** sobre los datos y es posible extraer la _proportion  of variance explained_ (PVE) de cada componente así como sus eigenvalores y eigenvectores.    |
+| `glmnet()` |   Ajusta un modelo lineal generalizado mediante la penalización de máxima verosimilitud, la vía de regularización se calcula de acuerdo a la penalización del del modelo (α)  en una malla de valores de regularización para _lambda_  |
 
 El código completo puede consultarse en el archivo [`MR & RF.R`](https://github.com/MMiranda777/Machine-Learning/blob/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest/MR%20%26%20RF.R)
 ## - Resultados:
