@@ -37,10 +37,11 @@ im1
 
 El criterio para escoger todos los modelos fue tomar `lambda.min`. Para Ridge se utilizó porque era la que minimizaba el ECM, para LASSO y Elastic Net se utilizó porque minimizaba el ECM y porque tomaba en cuenta más variables (**β**) que si se utilizaba `lambda.1se`. Buscamos que los últimos dos modelos tomaran en cuenta más variables ya que la base original cuenta con miles de ellas y a nivel de decenas no cambia mucho el costo computacional.
 
+### Random Forest:
+**Boston**
 
-
-
-
+Para `randomForest` se usaron *13* modelos donde cada uno difiere por el valor de `mtry`.
+> `mtry`: Se refiere al número de variables muestreadas aleatoriamente como candidatas en cada división. Los valores predeterminados son diferentes para el método de clasificación (*sqrt(p)* donde *p* es el número de variables en *x*) y regresión (*p/3*).
 
 
 
