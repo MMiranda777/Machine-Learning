@@ -32,6 +32,9 @@ Se ocupo la paquetería _`stats`_ en `RStudio` y sus funciones para hacer modelo
 ----------------------------------------------------
 
 <img src="LASSO, Ridge, Elastic Net y Random Forest/Media/rf1.png" width="50%" style="display: block; margin: auto;" /><img src="LASSO, Ridge, Elastic Net y Random Forest/Media/rf2.png" width="50%" style="display: block; margin: auto;" />
+
+## [LASSO, Ridge, Elastic Net y Random Forest](https://github.com/MMiranda777/Machine-Learning/tree/main/LASSO%2C%20Ridge%2C%20Elastic%20Net%20y%20Random%20Forest)
+### _**Model Selection and Regularization**_
 -----------------------------------------------------
 
 ## Coming soon... :soon:
@@ -42,10 +45,6 @@ Modelos de:
  - Naive Bayes
  - Regresión logística
  - SVM
- - LASSO
- - Ridge
- - Elastic Net
- - Random Forest
 
 
 
