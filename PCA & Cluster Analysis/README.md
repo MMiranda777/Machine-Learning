@@ -1,3 +1,6 @@
+ <a href="https://www.linkedin.com/in/melissamirandap/">
+ <img src="https://img.shields.io/badge/Linked-in-blue">
+
 # [PCA & Cluster Analysis](https://github.com/MMiranda777/Machine-Learning/tree/main/PCA%20%26%20Cluster%20Analysis)
  _**Unsupervised Learning**_
 
