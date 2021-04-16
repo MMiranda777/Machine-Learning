@@ -1,3 +1,6 @@
+ <a href="https://www.linkedin.com/in/melissamirandap/">
+ <img src="https://img.shields.io/badge/Linked-in-blue">
+
 # [Deep Neural Network (DNN)](https://github.com/MMiranda777/Machine-Learning/tree/main/Deep%20Neural%20Network%20(DNN))
 
 <img src="Media/dnn.jpg" width="50%" style="display: block; margin: auto;" /><img src="Media/dnn (2).jpg" width="50%" style="display: block; margin: auto;" />
