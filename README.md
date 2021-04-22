@@ -45,6 +45,7 @@ El objetivo de esta entrega es ajustar modelos regularizados como **LASSO, Ridge
 
 Modelos de:
  - Regresión logística no regularizada
+ - PCA & Cluster Analysis (en Python)
  - Análisis de discriminante lineal
  - Naive Bayes
  - Regresión logística
