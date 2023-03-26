@@ -6,9 +6,7 @@
 
 En este repositorio comparto todos los trabajos que he desarrollado en el área de Machine Learning. A continuación se presenta un breve resumen de cada uno de ellos.
 
-<img src="Netflix Appetency
-/Media/Netflix_logo.png" width="50%" style="display: block; margin: auto;" /><img src="Netflix Appetency
-/Media/Netflix_logo.png" width="50%" style="display: block; margin: auto;" />
+<img src="Netflix Appetency/Media/Netflix_logo.png" width="50%" style="display: block; margin: auto;" /><img src="Netflix Appetency/Media/Netflix_logo.png" width="50%" style="display: block; margin: auto;" />
 
 ## [Netflix Appetency](https://github.com/MMiranda777/Machine-Learning/tree/main/Netflix%20Appetency)
 
