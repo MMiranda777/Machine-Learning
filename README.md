@@ -6,6 +6,22 @@
 
 En este repositorio comparto todos los trabajos que he desarrollado en el área de Machine Learning. A continuación se presenta un breve resumen de cada uno de ellos.
 
+<img src="Netflix Appetency
+/Media/Netflix_logo.png" width="50%" style="display: block; margin: auto;" /><img src="Netflix Appetency
+/Media/Netflix_logo.png" width="50%" style="display: block; margin: auto;" />
+
+## [Netflix Appetency](https://github.com/MMiranda777/Machine-Learning/tree/main/Netflix%20Appetency)
+
+Este proyecto tiene como objetivo predecir predecir si un usuario se suscribirá al final del mes de prueba de acuerdo con sus interacciones en la plataforma y, en caso de que no se suscriba, encontrar las posibles razones y tomar acciones para completar la mayor cantidad de suscripciones al final del mes.
+ 
+Para lograrlo, se entrenaran modelos de aprendizaje supervizado, para tratar de predecir si se suscribirá o no, y no supervizado, para obtener información extra de los datos.
+
+## - :trophy: :trophy: Logros: 
+ Se logró generar un modelo de nogocio que fuera capaz de predecir la suscripción a final del mes y además, se generó un segundo modelo auxiliar para saber qué hacer cuando el cliente no completa la suscripción. 
+ 
+ 
+ > _**NOTA¨**_: Para leer el trabajo completo, detalle de los modelos y código, visitar el paper del proyecto [PDF_Proyecto_Netflix_Melissa_Miranda.pdf](https://github.com/MMiranda777/Machine-Learning/blob/main/Netflix%20Appetency/PDF_Proyecto_Netflix_Melissa_Miranda.pdf) o ver el video del proyecto para más información. [Video](https://www.youtube.com/watch?v=LvQSl_aEhTM)
+
 <img src="Deep Neural Network (DNN)/Media/dnn.jpg" width="50%" style="display: block; margin: auto;" /><img src="Deep Neural Network (DNN)/Media/dnn (2).jpg" width="50%" style="display: block; margin: auto;" />
 
 ## [Deep Neural Network (DNN)](https://github.com/MMiranda777/Machine-Learning/tree/main/Deep%20Neural%20Network%20(DNN))
