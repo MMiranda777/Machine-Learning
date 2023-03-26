@@ -21,3 +21,10 @@ target: muestra un 1 si el usuario se suscribió a Netflix y 0 si no.
  
 Para los fines de este proyecto se trabajó únicamente con los datos de la base train para poder evaluar la capacidad de los modelos, ya que la base test no contaba
 con valores para la variable respuesta (’target’) y no era posible evaluar el poder predictivo de los modelos.
+
+ ## Programación
+ 
+ Se utilizaron varios modelos de ML de aprendizaje supervizado y no supervizado como:
+> - Regresión Logística
+-
+ 
