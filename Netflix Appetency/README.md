@@ -24,7 +24,21 @@ con valores para la variable respuesta (’target’) y no era posible evaluar e
 
  ## Programación
  
- Se utilizaron varios modelos de ML de aprendizaje supervizado y no supervizado como:
-> - Regresión Logística
--
+ Se utilizaron varios modelos de ML y técnicas de aprendizaje supervizado y no supervizado como:
+- Regresión Logística
+- Árbol de Decisión
+- Balanceo de Clases
+- Diferentes tipos de Clusterización
+- Perfilamiento
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
