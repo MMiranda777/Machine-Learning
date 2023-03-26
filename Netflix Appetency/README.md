@@ -11,13 +11,13 @@ Para lograrlo, se entrenaran modelos de aprendizaje supervizado, para tratar de 
  
  ## Sobre los datos
  
- La base está conformada por _100,000_ datos de _509_ variables. Se encuentra segmentada en _*train*_ y _*test*_ con 70,000 y 30,000 datos respectivamente.
-Los datos fueron extraídos de Kaggle [1] y fueron proporcionados por Netflix, provocando que, por confidencialidad, no se publicara con exactitud la descripción de
-las variables “feature” (que conforman 507 columnas de las 509 de la base). Las dos
-columnas restantes son ‘id’ y ‘target’.
+ La base está conformada por _100,000_ datos de _509_ variables. Se encuentra segmentada en _**train**_ y _**test**_ con 70,000_ y _30,000_ datos respectivamente.
+ 
+Los datos fueron extraídos de **Kaggle** y fueron proporcionados por Netflix, provocando que, por confidencialidad, no se publicara con exactitud la descripción de
+las variables “feature” (que conforman 507 columnas de las 509 de la base). Las dos columnas restantes son ‘id’ y ‘target’.
+ 
 id: muestra el número de identificación del usuario;
 target: muestra un 1 si el usuario se suscribió a Netflix y 0 si no.
-Para los fines de este proyecto se trabajó únicamente con los datos de la base
-train para poder evaluar la capacidad de los modelos, ya que la base test no contaba
-con valores para la variable respuesta (’target’) y no era posible evaluar el poder
-predictivo de los modelos.
+ 
+Para los fines de este proyecto se trabajó únicamente con los datos de la base train para poder evaluar la capacidad de los modelos, ya que la base test no contaba
+con valores para la variable respuesta (’target’) y no era posible evaluar el poder predictivo de los modelos.
