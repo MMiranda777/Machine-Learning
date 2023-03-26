@@ -31,11 +31,11 @@ con valores para la variable respuesta (’target’) y no era posible evaluar e
 - Diferentes tipos de Clusterización
 - Perfilamiento
  
+ ## - :trophy: :trophy: Logros: 
+ Se logró generar un modelo de nogocio que fuera capaz de predecir la suscripción a final del mes y además, se generó un segundo modelo auxiliar para saber qué hacer cuando el cliente no completa la suscripción. 
  
  
- 
- 
- 
+ > _**NOTA¨**_: Para leer el trabajo completo, detalle de los modelos y código, visitar el paper del proyecto [PDF_Proyecto_Netflix_Melissa_Miranda.pdf](https://github.com/MMiranda777/Machine-Learning/blob/main/Netflix%20Appetency/PDF_Proyecto_Netflix_Melissa_Miranda.pdf)
  
  
  
